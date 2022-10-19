@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962109658385",
+    "firebase_url": "https://deteksi-itik-default-rtdb.firebaseio.com",
+    "project_id": "deteksi-itik",
+    "storage_bucket": "deteksi-itik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962109658385:android:1950a33fe7a9780fc268b0",
+        "android_client_info": {
+          "package_name": "com.example.monitoringitik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962109658385-92oohp8plpno9n29jon07eose1u7vp6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBB9SthwsbSwB6Sm40SzgDxEkRcG37rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962109658385-92oohp8plpno9n29jon07eose1u7vp6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

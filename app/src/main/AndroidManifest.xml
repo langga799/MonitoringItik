@@ -16,6 +16,9 @@
         android:theme="@style/Theme.MonitoringItik"
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
+        <activity
+            android:name=".NewMonitoringActivity"
+            android:exported="false" />
         <activity android:name=".IpAddressActivity" />
         <activity android:name=".MonitoringActivity" />
         <activity
